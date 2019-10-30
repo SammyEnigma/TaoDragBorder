@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/rotate.svg</file>
+        <file>qml/GConfig.qml</file>
+        <file>qml/main.qml</file>
+        <file>qml/TDragItem.qml</file>
+        <file>qml/TemplateBorder.qml</file>
+        <file>qml/TResizeBorder.qml</file>
+    </qresource>
+</RCC>
