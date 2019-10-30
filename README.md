@@ -1,4 +1,5 @@
 ﻿# TaoDragBorder
+https://zhuanlan.zhihu.com/p/89243630
 
 Qt/qml实现的可拖拽边框，支持改变大小、坐标及旋转角度
 
