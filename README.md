@@ -163,7 +163,6 @@ QQ群：734623697
 
 ## 联系方式
 
-
 | 作者 | 涛哥                           |
 | ---- | -------------------------------- |
 |开发理念 | 传承工匠精神 |
@@ -177,6 +176,7 @@ QQ群：734623697
 | QQ、TIM | 759378563                      |
 
 QQ(TIM)、微信二维码
+
 <img src="https://gitee.com/jaredtao/jaredtao/raw/master/img/qq_connect.jpg?raw=true" width="30%" height="30%" /><img src="https://gitee.com/jaredtao/jaredtao/raw/master/img/weixin_connect.jpg?raw=true" width="30%" height="30%" />
 
 *** 请放心联系我，乐于提供咨询服务，也可洽谈有偿技术支持相关事宜。  ***
